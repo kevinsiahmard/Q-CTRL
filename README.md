@@ -1,8 +1,8 @@
 Q-CTRL Assessment<br/><br/>
 These are Terraform files for deploying:<br/>
-2*EC2<br/>
-2*Security Groups<br/>
-1*ELB<br/>
+2 EC2<br/>
+2 Security Groups<br/>
+1 ELB<br/>
 on two different AZs on your defined region.<br/>
 
 Notice that you will need to create a terraform.tfvars containing:<br/>
